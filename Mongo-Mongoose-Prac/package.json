@@ -1,0 +1,15 @@
+{
+  "name": "mongo-mongoose-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "author": "John Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20"
+  }
+}
